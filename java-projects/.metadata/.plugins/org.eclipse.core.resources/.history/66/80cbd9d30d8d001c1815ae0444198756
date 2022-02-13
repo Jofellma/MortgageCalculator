@@ -1,0 +1,11 @@
+package com.mortgageplan.mavenproject;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		MortagePlanCalc calc = new MortagePlanCalc("C:/Users/totti/java-projects/mavenproject/src/main/prospects.txt");
+
+	}
+
+}
